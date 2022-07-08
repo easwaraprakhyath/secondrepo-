@@ -1,0 +1,146 @@
+    1  git init 
+    2  git init
+    3  ls -al
+    4  git status
+    5  git add file
+    6  git add *
+    7  git status
+    8  git add file.txt
+    9  git status
+   10  git log
+   11  git commit 
+   12  git log 
+   13  git commit
+   14  git commit -m "file.txt"
+   15  git commit -m "file"
+   16  git commit -m "file"
+   17  git commit -m "file.txt"
+   18  git init
+   19  git status
+   20  git add file.txt
+   21  git commit -m "file"
+   22  git commit -m "file.txt"
+   23  git init 
+   24  git status 
+   25  git commit -m "file.txt"
+   26  git init 
+   27  ls .git
+   28  git init 
+   29  git init
+   30  git status 
+   31  git add file.txtr 
+   32  git add file.txt
+   33  git status 
+   34  ls .git 
+   35  touch file1
+   36  git commit -m "file1"
+   37  git commit -m "file 1"
+   38  git commit -m "file1"
+   39  git init 
+   40  touch file2
+   41  git add file2
+   42  git status
+   43  git add file1
+   44  git status
+   45  git commit -m "file!"
+   46  git commit -m "file2"
+   47  git init 
+   48  ls -al
+   49  git status
+   50  touch file1
+   51  git status
+   52  git add file1
+   53  git status 
+   54  git commit -m 'file!'
+   55  git config
+   56  git init 
+   57  ls .git 
+   58  touch file2
+   59  git add file2
+   60  git status
+   61  git commit -m "hello"
+   62  git config --global user.email "krovvidi.ep95@gmail.com"
+   63  git config --global user.name "easwaraprakhyath"
+   64  git commit -m "hello"
+   65  git log
+   66  touch file123
+   67  git status 
+   68  add file123
+   69  git add file123
+   70  git status 
+   71  git restore --staged flie2
+   72  git restore --staged file2
+   73  git status 
+   74  git add file123
+   75  git status 
+   76  git commit -m "how are you"
+   77  git log 
+   78  git config--list
+   79  touch newfile
+   80  git init 
+   81  git commit -m "first commit"
+   82  git add newfile
+   83  git status
+   84  git commit -m "first commit"
+   85  git branch -M main
+   86  git remote add origin https://github.com/easwaraprakhyath/demogit.git
+   87  git push -u origin main
+   88  code .
+   89  pracgit .py
+   90  touch pracgit.py
+   91  touch test.py
+   92  touch gitignore.py
+   93  touch demo1.py
+   94  touch demo2.py
+   95  touch gitignore.py
+   96  git init 
+   97  git status
+   98  touch gitignore.py
+   99  git status
+  100  git checkout -b prak
+  101  git commit -m "prak files"
+  102  git add *
+  103  git status
+  104  git init 
+  105  touch firstfile
+  106  git init 
+  107  git add *
+  108  git status
+  109  git commit -m "first commit"
+  110  git branch -M main
+  111  git remote add origin https://github.com/easwaraprakhyath/secondrepo-.git
+  112  git push -u origin main
+  113  git push -u origin main
+  114  code .
+  115  touch add.py
+  116  touch test.py
+  117  touch ignoregit.py
+  118  touch .ignoregit
+  119  git status
+  120  touch .gitignore
+  121  git status
+  122  touch .gitignore
+  123  git init 
+  124  git status
+  125  git add *
+  126  git status
+  127  git add *
+  128  git status
+  129  ls -al
+  130  git add *
+  131  git status
+  132  git checkout -b prak
+  133  git cmmit -m "prak files"
+  134  git commit -m "prak files"
+  135  git remote add origin https://github.com/easwaraprakhyath/secondrepo-.git
+  136  git push -u origin prak
+  137  git checkout -b easwara 
+  138  git branch
+  139  git status
+  140  git checkout -b krov
+  141  git status
+  142  git add *
+  143  git commit -m "from easwara"
+  144  git push -u origin krov
+  145  history
+  146  history >commands.txt
