@@ -10,3 +10,5 @@ class Calculator():
         print(self.a*self.b)
     def div(self):
         print(float(self.a/self.b))
+    def rem(self):
+        print(float(self.a%self.b))
